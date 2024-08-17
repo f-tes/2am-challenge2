@@ -18,6 +18,7 @@
 		9D1A785E2C548C3100BD7618 /* AwardsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D1A785D2C548C3100BD7618 /* AwardsListView.swift */; };
 		9D1A78602C549CC300BD7618 /* AwardDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D1A785F2C549CC300BD7618 /* AwardDetailView.swift */; };
 		9DFD9C1E2C5DC809000965E3 /* AwardContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DFD9C1D2C5DC809000965E3 /* AwardContentView.swift */; };
+		A09101A12C7033F9003E33D9 /* ShopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A09101A02C7033F9003E33D9 /* ShopView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		9D1A785D2C548C3100BD7618 /* AwardsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AwardsListView.swift; sourceTree = "<group>"; };
 		9D1A785F2C549CC300BD7618 /* AwardDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AwardDetailView.swift; sourceTree = "<group>"; };
 		9DFD9C1D2C5DC809000965E3 /* AwardContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AwardContentView.swift; sourceTree = "<group>"; };
+		A09101A02C7033F9003E33D9 /* ShopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 			children = (
 				9D1A782F2C548BC800BD7618 /* FitnessAppApp.swift */,
 				9D1A785F2C549CC300BD7618 /* AwardDetailView.swift */,
+				A09101A02C7033F9003E33D9 /* ShopView.swift */,
 				9D1A78592C548BE100BD7618 /* Award.swift */,
 				9DFD9C1D2C5DC809000965E3 /* AwardContentView.swift */,
 				9D1A785B2C548C0900BD7618 /* AwardView.swift */,
@@ -271,6 +274,7 @@
 			files = (
 				9D1A785C2C548C0900BD7618 /* AwardView.swift in Sources */,
 				9D1A785A2C548BE100BD7618 /* Award.swift in Sources */,
+				A09101A12C7033F9003E33D9 /* ShopView.swift in Sources */,
 				9D1A78602C549CC300BD7618 /* AwardDetailView.swift in Sources */,
 				9D1A785E2C548C3100BD7618 /* AwardsListView.swift in Sources */,
 				9DFD9C1E2C5DC809000965E3 /* AwardContentView.swift in Sources */,
